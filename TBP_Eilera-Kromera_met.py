@@ -195,6 +195,25 @@ vx3[0],vy3[0]=-2*vx1[0],-2*vy1[0]
 # m1=1
 # m2=1
 # m3=1
+
+# #ķermenis 1
+# x1=np.zeros(len(t))
+# y1=np.zeros(len(t))
+# vx1=np.zeros(len(t))
+# vy1=np.zeros(len(t))
+
+# #Ķermenis 2
+# x2=np.zeros(len(t))
+# y2=np.zeros(len(t))
+# vx2=np.zeros(len(t))
+# vy2=np.zeros(len(t))
+
+# #ķermenis 3
+# x3=np.zeros(len(t))
+# y3=np.zeros(len(t))
+# vx3=np.zeros(len(t))
+# vy3=np.zeros(len(t))
+
 # #Ķermenis 1
 # x1[0],y1[0]=-1,0
 
